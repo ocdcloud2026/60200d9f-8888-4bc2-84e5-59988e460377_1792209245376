@@ -1,0 +1,11 @@
+{
+  "title": "__e2e_test__",
+  "artist": "t",
+  "album": "t",
+  "qualities": {
+    "high": "high.mp3"
+  },
+  "ssid": "60200d9f-8888-4bc2-84e5-59988e460377",
+  "playCount": 0,
+  "coverPath": "cover.webp"
+}
